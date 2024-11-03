@@ -1,3 +1,11 @@
+'''
+Project: Rock Paper and Scissor
+Ver: 1.0.0
+Developer: Abisheek Kumar
+Country: India
+
+'''
+
 class arrayMethods:
     
     def __init__(self,array=[]):
